@@ -1,5 +1,5 @@
 -  Hi, I’m @MrBoora an Indie Game Developer
--  I’m interested in Game development 
--  I’m currently learning Unity Engine 
+-  I’m a full time Self Employed Game Developer 
+-  I’m currently working with Unity Engine 
 -  Contact me via my email bhupeshboora2nd@gmail.com
 
